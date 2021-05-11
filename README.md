@@ -1,3 +1,7 @@
+# CI 
+
+[![CI](https://github.com/ngthotuan/test/actions/workflows/blank.yml/badge.svg?branch=main)](https://github.com/ngthotuan/test/actions/workflows/blank.yml)
+
 # Table of Contents
 
 * [How to install](#How-to-install)
